@@ -1,0 +1,49 @@
+Date,Game,Time,Home,Visitor
+2026-06-02,1,6:30pm,Cowboys,Lakers
+2026-06-02,1,7:30pm,Hurricanes,Titans
+2026-06-02,1,8:30pm,Celtics,Bengals
+2026-06-02,1,9:30pm,Steelers,Seahawks
+2026-06-09,2,6:30pm,Seahawks,Lakers
+2026-06-09,2,7:30pm,Celtics,Cowboys
+2026-06-09,2,8:30pm,Titans,Steelers
+2026-06-09,2,9:30pm,Bengals,Hurricanes
+2026-06-16,3,6:30pm,Seahawks,Bengals
+2026-06-16,3,7:30pm,Celtics,Titans
+2026-06-16,3,8:30pm,Lakers,Hurricanes
+2026-06-16,3,9:30pm,Steelers,Cowboys
+2026-06-23,4,6:30pm,Steelers,Celtics
+2026-06-23,4,7:30pm,Hurricanes,Seahawks
+2026-06-23,4,8:30pm,Titans,Cowboys
+2026-06-23,4,9:30pm,Bengals,Lakers
+2026-07-07,5,6:30pm,Celtics,Hurricanes
+2026-07-07,5,7:30pm,Steelers,Lakers
+2026-07-07,5,8:30pm,Cowboys,Bengals
+2026-07-07,5,9:30pm,Titans,Seahawks
+2026-07-14,6,6:30pm,Lakers,Titans
+2026-07-14,6,7:30pm,Steelers,Bengals
+2026-07-14,6,8:30pm,Celtics,Seahawks
+2026-07-14,6,9:30pm,Cowboys,Hurricanes
+2026-07-21,7,6:30pm,Cowboys,Seahawks
+2026-07-21,7,7:30pm,Titans,Bengals
+2026-07-21,7,8:30pm,Steelers,Hurricanes
+2026-07-21,7,9:30pm,Celtics,Lakers
+2026-07-28,8,6:30pm,Cowboys,Lakers
+2026-07-28,8,7:30pm,Steelers,Seahawks
+2026-07-28,8,8:30pm,Celtics,Bengals
+2026-07-28,8,9:30pm,Hurricanes,Titans
+2026-08-04,9,6:30pm,Bengals,Hurricanes
+2026-08-04,9,7:30pm,Seahawks,Lakers
+2026-08-04,9,8:30pm,Titans,Steelers
+2026-08-04,9,9:30pm,Celtics,Cowboys
+2026-08-11,Playoff Round 1 (A),6:30pm,3rd,6th
+2026-08-11,Playoff Round 1 (B),7:30pm,1st,8th
+2026-08-11,Playoff Round 1 (C),8:30pm,2nd,7th
+2026-08-11,Playoff Round 1 (D),9:30pm,4th,5th
+2026-08-18,Playoff Round 2 (1),6:30pm,Loser B,Loser D
+2026-08-18,Playoff Round 2 (2),7:30pm,Winner B,Winner D
+2026-08-18,Playoff Round 2 (3),8:30pm,Winner C,Winner A
+2026-08-18,Playoff Round 2 (4),9:30pm,Loser C,Loser A
+2026-08-25,Finals (Champ),6:30pm,Winner 2,Winner 3
+2026-08-25,Finals (3rd),7:30pm,Loser 2,Loser 3
+2026-08-25,Finals (5th),8:30pm,Winner 1,Winner 4
+2026-08-25,Finals (Honour),9:30pm,Loser 1,Loser 4
