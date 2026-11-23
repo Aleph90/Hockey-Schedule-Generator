@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>FNML Schedule</title>
+         <link rel="stylesheet" href="style.css">
+         <script src="script.js" defer></script>
+    </head>
+
+    <body>
+        <main class="container">
+            <h1>FNML Calendar Events</h1>
+            <h2>Instructions</h2>
+            <ol>
+                <li>Select the session and your team.</li>
+                <li>Click on the button to get your calendar file.</li>
+                <li>Manually open the downloaded file if necessary.</li>
+                <li>Review the events and add them to your calendar.</li>
+                <li>...</li>
+                <li>Profit!</li>
+            </ol>
+
+            <label for="session">Session</label>
+            <select id="session">
+                <option value="fall">Fall</option>
+                <option value="winter" selected>Winter</option>
+                <option value="spring">Spring</option>
+            </select>
+
+            <label for="team">Team</label>
+            <select id="team">
+                <option value="" disabled selected hidden></option>
+                <option value="team_1">Team 1</option>
+                <option value="team_2">Team 2</option>
+                <option value="team_3">Team 3</option>
+                <option value="team_4">Team 4</option>
+                <option value="team_5">Team 5</option>
+                <option value="team_6">Team 6</option>
+                <option value="team_7">Team 7</option>
+                <option value="team_8">Team 8</option>
+            </select>
+
+            <button id="download">Download!</button>
+            <p id="invalid-team" class="error-msg" role="alert"></p>
+        </main>
+    </body>
+</html>

@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 30px 15px;
+}
+
+.container {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 25px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    color: #666;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.error-msg {
+    color: red;
+}
+
+label {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+select, button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+select {
+    border: 1px solid #ccc;
+    background: white;
+}
+
+button {
+    margin-top: 25px;
+    border: none;
+    background: #1769aa;
+    color: white;
+    cursor: pointer;
+}
